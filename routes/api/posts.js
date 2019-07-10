@@ -139,7 +139,7 @@ router.put('/unlike/:id', auth, async (req, res) => {
   try {
     const post = await Post.findById(req.params.id);
 
-    //check if post has been already liked
+    //check if post has not been liked
     if (
       post.likes.filter(like => like.user.toString() === req.user.id).length ===
       0
