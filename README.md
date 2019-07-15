@@ -23,6 +23,9 @@ request: making http requests to APIs
  
 nodemon: constantly watch our server so we don't have to refresh it everytime we make a change
 
-concurrently: allow us to run our backend Express server and front-end React dev server at the same time with one single command
+concurrently: allows us to run our backend Express server and front-end React dev server at the same time with one single command
 
 uuid
+
+ Live Version:
+ https://radiant-falls-27419.herokuapp.com/
