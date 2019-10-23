@@ -1,4 +1,4 @@
-# devConnector
+# Socialize
 Social Network Platform for developers.
 
 Stack: Mongodb, Mongoose, Express, JavaScript ES6+, React, Redux
