@@ -28,4 +28,4 @@ concurrently: allows us to run our backend Express server and front-end React de
 uuid
 
  Live Version:
- https://radiant-falls-27419.herokuapp.com/
+ https://socialization.herokuapp.com/
